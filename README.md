@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://aziral.com"><img src="https://img.shields.io/badge/Website-aziral.com-blue?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://github.com/shutovBro"><img src="https://img.shields.io/badge/GitHub-shutovBro-181717?style=flat-square&logo=github" /></a>
+  <a href="https://github.com/azirali"><img src="https://img.shields.io/badge/GitHub-azirali-181717?style=flat-square&logo=github" /></a>
   <a href="https://aziral.com"><img src="https://img.shields.io/badge/Sponsor-Support_AZIRAL-FF69B4?style=flat-square&logo=github-sponsors&logoColor=white" /></a>
 </p>
 
@@ -52,12 +52,12 @@
 
 | Project | Description | Stack | Live |
 |---------|-------------|-------|------|
-| [**AziralPDF**](https://github.com/shutovBro/AziralPDF-app) | Self-hosted PDF platform — 50+ tools, REST API, desktop app | Java 25 · Spring Boot · React · TypeScript · Docker | [Demo](https://huggingface.co/spaces/shutovBro/aziralpdf) |
-| [**AZIRAL CRM**](https://github.com/shutovBro/AZIRAL-CRM) | Mobile-first Business Workspace: clients, projects, tasks, money, documents | Flutter · Dart · FastAPI · PostgreSQL · Redis | [Web](https://shutovbro.github.io/AZIRAL-CRM/) |
+| [**AziralPDF**](https://github.com/azirali/AziralPDF-app) | Self-hosted PDF platform — 50+ tools, REST API, desktop app | Java 25 · Spring Boot · React · TypeScript · Docker | [Demo](https://huggingface.co/spaces/shutovBro/aziralpdf) |
+| [**AZIRAL CRM**](https://github.com/azirali/AZIRAL-CRM) | Mobile-first Business Workspace: clients, projects, tasks, money, documents | Flutter · Dart · FastAPI · PostgreSQL · Redis | [Web](https://azirali.github.io/AZIRAL-CRM/) |
 | [**Aziral Books**](https://github.com/AZIRALGROUP/aziral-books-backend) | Book catalog aggregator — OPDS + Open Library + Internet Archive | TypeScript · Hono · PostgreSQL | — |
-| [**EcoTaxi**](https://github.com/shutovBro/EcoTaxi) | Eco-friendly ride-hailing app — 22-screen passenger flow | React 19 · TypeScript · Vite · Tailwind 4 | [Demo](https://ecotaxi-mu.vercel.app) |
-| [**AI Video Generator**](https://github.com/shutovBro/aziral-video-gen) | Topic → finished marketing short: script, footage, voice-over, subtitles | Python · FastAPI · Streamlit · moviepy · LLMs | [Demo](https://huggingface.co/spaces/shutovBro/aziral-video-gen) |
-| [**Solidcore**](https://github.com/shutovBro/Solidcore) | Employee onboarding, training, tests & mood analytics — employee + admin workspaces | React 18 · TypeScript · Vite · Tailwind 4 | [Demo](https://shutovbro.github.io/Solidcore/) |
+| [**EcoTaxi**](https://github.com/azirali/EcoTaxi) | Eco-friendly ride-hailing app — 22-screen passenger flow | React 19 · TypeScript · Vite · Tailwind 4 | [Demo](https://ecotaxi-mu.vercel.app) |
+| [**AI Video Generator**](https://github.com/azirali/aziral-video-gen) | Topic → finished marketing short: script, footage, voice-over, subtitles | Python · FastAPI · Streamlit · moviepy · LLMs | [Demo](https://huggingface.co/spaces/shutovBro/aziral-video-gen) |
+| [**Solidcore**](https://github.com/azirali/Solidcore) | Employee onboarding, training, tests & mood analytics — employee + admin workspaces | React 18 · TypeScript · Vite · Tailwind 4 | [Demo](https://azirali.github.io/Solidcore/) |
 
 ---
 
@@ -72,13 +72,13 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shutovBro/shutovBro/output/github-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/shutovBro/shutovBro/output/github-snake.svg" alt="Contribution snake" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azirali/azirali/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/azirali/azirali/output/github-snake.svg" alt="Contribution snake" width="100%">
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shutovBro&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=azirali&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
 ---
