@@ -2,7 +2,7 @@
   {
     "type": "normal",
     "fileName": "profile-azirali-dark.svg",
-    "backgroundColor": "none",
+    "backgroundColor": "#0D1117",
     "foregroundColor": "#E8EEF9",
     "strongColor": "#22D3EE",
     "weakColor": "#8A9BB8",
@@ -13,7 +13,7 @@
   {
     "type": "normal",
     "fileName": "profile-azirali-light.svg",
-    "backgroundColor": "none",
+    "backgroundColor": "#FFFFFF",
     "foregroundColor": "#0B1324",
     "strongColor": "#1F5EFF",
     "weakColor": "#56647D",
