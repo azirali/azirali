@@ -6,6 +6,11 @@ on:
   schedule:
     - cron: "43 3 * * *"
   workflow_dispatch:
+  # Re-render right away when the colors change.
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/snake.yml
 
 permissions:
   contents: write
@@ -18,8 +23,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#1F5EFF&color_dots=#E6ECF7,#C7D7FE,#93B4FD,#5B8DF8,#1F5EFF
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#22D3EE&color_dots=#16213A,#163A8A,#2056D6,#2F7BFF,#7DD3FC
             dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - uses: crazy-max/ghaction-github-pages@v4
