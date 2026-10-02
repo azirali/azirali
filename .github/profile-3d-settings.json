@@ -1,0 +1,24 @@
+[
+  {
+    "type": "normal",
+    "fileName": "profile-azirali-dark.svg",
+    "backgroundColor": "none",
+    "foregroundColor": "#E8EEF9",
+    "strongColor": "#22D3EE",
+    "weakColor": "#8A9BB8",
+    "radarColor": "#2F7BFF",
+    "growingAnimation": true,
+    "contribColors": ["#16213A", "#163A8A", "#2056D6", "#2F7BFF", "#7DD3FC"]
+  },
+  {
+    "type": "normal",
+    "fileName": "profile-azirali-light.svg",
+    "backgroundColor": "none",
+    "foregroundColor": "#0B1324",
+    "strongColor": "#1F5EFF",
+    "weakColor": "#56647D",
+    "radarColor": "#1F5EFF",
+    "growingAnimation": true,
+    "contribColors": ["#E6ECF7", "#C7D7FE", "#93B4FD", "#5B8DF8", "#1F5EFF"]
+  }
+]
