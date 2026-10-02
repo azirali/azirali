@@ -1,0 +1,36 @@
+name: Profile cards
+
+# Re-renders the header, project cards and stats strip in assets/ with live
+# numbers (stars, languages, merged PRs, npm downloads). Runs nightly and when
+# the generator scripts change.
+on:
+  schedule:
+    - cron: "29 3 * * *"
+  push:
+    branches: [main]
+    paths: ["scripts/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/header.mjs
+      - run: node scripts/cards.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: refresh profile cards"
+          git push

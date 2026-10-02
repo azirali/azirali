@@ -1,0 +1,32 @@
+{
+  "projects": {
+    "lucide-brands": {
+      "stars": 1,
+      "language": "TypeScript",
+      "version": "1.2.0",
+      "downloads": null
+    },
+    "aziral-video-gen": {
+      "stars": 2,
+      "language": "Python"
+    },
+    "ecotaxi": {
+      "stars": 2,
+      "language": "TypeScript"
+    },
+    "solidcore": {
+      "stars": 2,
+      "language": "TypeScript"
+    },
+    "aziral-books": {
+      "stars": null,
+      "language": "TypeScript"
+    }
+  },
+  "stats": {
+    "repos": 13,
+    "stars": 10,
+    "mergedPrs": null,
+    "downloads": null
+  }
+}
