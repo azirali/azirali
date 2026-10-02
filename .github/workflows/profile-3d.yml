@@ -6,6 +6,12 @@ on:
   schedule:
     - cron: "17 3 * * *"
   workflow_dispatch:
+  # Re-render right away when the theme or the workflow itself changes.
+  push:
+    branches: [main]
+    paths:
+      - .github/profile-3d-settings.json
+      - .github/workflows/profile-3d.yml
 
 permissions:
   contents: write

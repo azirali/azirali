@@ -6,6 +6,11 @@ on:
   schedule:
     - cron: "43 3 * * *"
   workflow_dispatch:
+  # Re-render right away when the colors change.
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/snake.yml
 
 permissions:
   contents: write
