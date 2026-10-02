@@ -169,7 +169,7 @@ DARK = Theme(
 LIGHT = Theme(
     "light", bg="#F6F9FF", panel="#FFFFFF", panel2="#F1F5FD", border="#DCE4F2", text="#0B1324",
     muted="#56647D", faint="#A3AEC2", blue="#1F5EFF", sky="#3B82F6", cyan="#0891B2", violet="#7C3AED",
-    green="#16A34A", amber="#D97706", name_to="#1F5EFF", shine="#FFFFFF", star="#1F5EFF", glow=0.2,
+    green="#16A34A", amber="#D97706", name_to="#1F5EFF", shine="#3B82F6", star="#1F5EFF", glow=0.2,
     grid="#D5DFF0",
     code=dict(kw="#7C3AED", prop="#0369A1", str="#15803D", punct="#64748B", ident="#0B1324"),
 )
