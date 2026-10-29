@@ -12,16 +12,25 @@
   <a href="https://www.instagram.com/aziralgroup"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/button-instagram.svg"><img src="assets/light/button-instagram.svg" height="46" alt="Instagram"></picture></a>
 </p>
 
+## Olzhas Azirali / Олжас Азирали
+
+Founder of AZIRAL and app developer based in Astana, Kazakhstan. I build mobile products and open-source workflows for coding agents.
+
+[About me and my apps](https://aziral.com/en/olzhas-azirali) · [Technical walkthrough on Medium](https://medium.com/@olzasazirali/unicode-safe-content-tools-for-english-russian-and-kazakh-769024c567f3)
+
 ## Agent skills by AZIRAL
 
-Original workflows for product videos and frontend delivery. English and Russian documentation, with multilingual examples.
+Original workflows for product videos, frontend delivery and multilingual content. The Instagram toolkit includes English, Russian and Kazakh documentation and examples.
 
 | Package | Workflow |
 | --- | --- |
+| [instagram-agent-skill](https://github.com/azirali/instagram-agent-skill) | Five RU/EN/KK content workflows and three local Python tools |
 | [hyperframes](https://github.com/azirali/hyperframes) | Focused product demos, storyboards and local render review |
 | [remotion](https://github.com/azirali/remotion) | Frame-based promos and RU/EN/KK format variants |
 | [taste-skill](https://github.com/azirali/taste-skill) | Brand-led frontend design and mobile interactions |
 | [impeccable](https://github.com/azirali/impeccable) | Reproducible UI release checks and fix verification |
+
+[Instagram toolkit on Product Hunt](https://www.producthunt.com/products/instagram-agent-skill-by-aziral) · [Source and examples](https://github.com/azirali/instagram-agent-skill)
 
 Install a workflow in a compatible coding agent:
 
