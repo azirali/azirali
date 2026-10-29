@@ -7,10 +7,29 @@
 
 <p align="center">
   <a href="https://aziral.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/button-website.svg"><img src="assets/light/button-website.svg" height="46" alt="aziral.com"></picture></a>
-  <a href="https://www.linkedin.com/in/olzhas-azirali-934a162aa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/button-linkedin.svg"><img src="assets/light/button-linkedin.svg" height="46" alt="LinkedIn"></picture></a>
+  <a href="https://www.linkedin.com/in/olzhas-azirali/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/button-linkedin.svg"><img src="assets/light/button-linkedin.svg" height="46" alt="LinkedIn"></picture></a>
   <a href="mailto:aziralgroup@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/button-email.svg"><img src="assets/light/button-email.svg" height="46" alt="Email"></picture></a>
   <a href="https://www.instagram.com/aziralgroup"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/button-instagram.svg"><img src="assets/light/button-instagram.svg" height="46" alt="Instagram"></picture></a>
 </p>
+
+## Agent skills by AZIRAL
+
+Original workflows for product videos and frontend delivery. English and Russian documentation, with multilingual examples.
+
+| Package | Workflow |
+| --- | --- |
+| [hyperframes](https://github.com/azirali/hyperframes) | Focused product demos, storyboards and local render review |
+| [remotion](https://github.com/azirali/remotion) | Frame-based promos and RU/EN/KK format variants |
+| [taste-skill](https://github.com/azirali/taste-skill) | Brand-led frontend design and mobile interactions |
+| [impeccable](https://github.com/azirali/impeccable) | Reproducible UI release checks and fix verification |
+
+Install a workflow in a compatible coding agent:
+
+```sh
+npx skills add azirali/hyperframes --skill aziral-product-video
+```
+
+These are independent AZIRAL workflows for the referenced tools. Each repository documents its scope, original authorship and installation.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/section-about.svg">
