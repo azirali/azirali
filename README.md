@@ -18,6 +18,16 @@ Founder of AZIRAL and app developer based in Astana, Kazakhstan. I build mobile 
 
 [About me and my apps](https://aziral.com/en/olzhas-azirali) · [Technical walkthrough on Medium](https://medium.com/@olzasazirali/unicode-safe-content-tools-for-english-russian-and-kazakh-769024c567f3)
 
+## Product notes
+
+Practical essays by Olzhas Azirali / AZIRAL about app interfaces and product decisions. Sources, proposed examples and AI editorial assistance are identified in each note.
+
+- [Error recovery: what an app should explain on one screen (RU)](https://medium.com/p/0468636ab184)
+- [Localization: actions, context, amounts and dates (RU, with EN/RU/KK examples)](https://aziral.com/blog/localization-actions-context-ru-en-kk)
+- [A support request should ask for the smallest useful report (EN)](notes/minimal-support-report.en.md)
+- [Оқылған дерек, ұсынылған санат және расталған жазба (KK)](notes/data-decisions.kk.md)
+- [A demo should leave a saved game alone (EN)](https://olzhasazirali.wordpress.com/2026/10/30/a-demo-should-leave-a-saved-game-alone/)
+
 ## Agent skills by AZIRAL
 
 Original workflows for product videos, frontend delivery and multilingual content. The Instagram toolkit includes English, Russian and Kazakh documentation and examples.
